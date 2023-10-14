@@ -1,0 +1,32 @@
+/*
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
+=     00   00 00 00   00 00 00   00 00 00   00 00 00   00 00    =
+=     00   00    00        00    00    00   00    00   00       =
+=     00   00    00      00      00    00   00    00   00       =
+=     00   00    00    00        00    00   00    00   00       =
+=  00 00   00 00 00   00 00 00   00 00 00   00 00 00   00       =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+@font-face {
+    font-family: "DinNextRegular";
+    src: url('../fonts/DinNextRegular.eot');
+    src: url('../fonts/DinNextRegular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/helveticaneueltarabic-light.svg#DroidKufi Regular') format('svg'),
+    url('../fonts/DinNextRegular.woff') format('woff'),
+    url('../fonts/DinNextRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: "DinNextBold";
+    src: url('../fonts/DinNextBold.eot');
+    src: url('../fonts/DinNextBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DinNextBold.svg#DroidKufi Regular') format('svg'),
+        url('../fonts/DinNextBold.woff') format('woff'),
+        url('../fonts/DinNextBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

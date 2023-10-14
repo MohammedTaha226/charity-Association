@@ -1,0 +1,486 @@
+/*Big Size Screens*/
+@media (max-width: 1200px)
+{
+	.allMoney .tabs-style1 .tabs-btns button
+	{
+	    padding: 0 23px;
+	}
+	
+	.blog .postBlog .details
+	{
+		width:49%
+	}
+	
+	.aboutUs .content .details
+	{
+		width:91%
+	}
+	.opencardDetails .leftSection a
+	{
+		width:46.77%
+	}
+	
+	.opencard .searchSale .sale .clearfix span
+	{
+		width:43.7%
+	}
+	
+}
+
+/* small Screens & tablets & Smart phone */
+@media (max-width: 991px) 
+{
+	
+	.header .topBar
+	{
+		text-align:center
+	}
+	
+	.header .topBar .floatRight
+	{
+		margin-bottom:15px;
+		float:none;
+	}
+	
+	.header .topBar .btnSingUp li
+	{
+		float:none;
+		display:inline-block
+	}
+	
+	
+	.header .topBar .floatLeft
+	{
+		float:none;
+		display:inline-block
+	}
+	
+	.header .topBar .floatLeft:before,
+	.header .topBar .floatLeft:after
+	{
+	    display: table;
+    	content: " ";
+    	clear:both
+	}
+	
+	.header .logo
+	{
+		max-width:270px;
+		margin:15px 0
+	}
+	
+	.slider img
+	{
+	    height: 340px;
+	}
+	
+	.sliderDetails
+	{
+	    padding-top: 70px;
+	}
+	
+	.sliderDetails p
+	{
+		font-size:20px;
+		line-height: 40px;
+		margin-bottom:40px
+	}
+	
+	.the-slider-control li span i
+	{
+		opacity:0.5
+	}
+	
+	.header .open-menu
+	{
+		display:block
+	}
+	
+	.aboutUs img
+	{
+		margin-bottom:30px
+	}
+	
+	.projectProtection .owl-controls .owl-buttons div
+	{
+		right:0
+	}
+	
+	.projectProtection .owl-controls .owl-buttons div.owl-prev
+	{
+		left:0
+	}
+	
+	.programSupport .items .item
+	{
+		max-width:100%;
+		margin-left:0;
+		margin-right:0
+	}
+	
+	.OtherDonations .item i
+	{
+		height:75px;
+		line-height:75px
+	}
+	
+	.OtherDonations .item i,
+	.OtherDonations .item .details
+	{
+		float:none;
+		width:100%;
+	}
+	.OtherDonations .item .details
+	{
+		padding:20px
+	}
+	
+	.allMoney .tabs-style1 .tabs-btns button
+	{
+		width:49%
+	}
+	
+	
+	.allMoney .tabs-style1 .tab-details span
+	{
+		margin-bottom:20px
+	}
+	
+	.blog .postBlog .imgBlog
+	{
+		float:none;	
+		text-align:center;
+		display:block;
+		margin-bottom:15px
+	}
+
+	.blog .postBlog .details
+	{
+		width:100%;
+		float:none;
+		padding:0;
+		text-align:center
+	}
+	
+	.aboutUs .content .details
+	{
+		width:89%
+	}
+	
+	.cateMoney .reports
+	{
+		text-align:center
+	}
+	
+	.cateMoney .reports p
+	{
+		float:none;
+		margin-bottom:15px
+	}
+	
+	.cateMoney .reports span
+	{
+		float:none;
+		margin-bottom:15px;
+		display:inline-block;
+		margin-right:0
+	}
+	
+	.login .loginForm .socialForm a
+	{
+		margin-bottom:20px
+	}
+	
+	
+	.opencard .searchSale .sale .clearfix span
+	{
+		float:none;
+		width:100%;
+		margin-left:0!important
+	}
+	
+	.opencard .sideCategory ul.cateMenu li ul.subCate
+	{
+		position: relative;
+		right:0;
+		width:100%;
+		opacity:1;
+		visibility:visible;
+		display:none;
+	    -webkit-transition:none;
+	    -moz-transition: none;
+	    -o-transition:none;
+	    transition:none ;
+	}
+
+
+
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	
+	
+}
+
+/* Mobile & Tablets */
+@media (max-width: 767px) 
+{
+	.aboutUs .content
+	{
+		text-align:center
+	}
+	
+	.aboutUs .content i,
+	.aboutUs .content .details
+	{
+		float:none;
+		padding-right:0;
+		width:100%
+	}
+	
+	.aboutUs .content .details h2
+	{
+		margin-top:15px
+	}
+	
+	.aboutUs .content .details ul
+	{
+		text-align:right
+	}
+	
+	.login .loginForm .login1 input,
+	.login .loginForm .login1 button
+	{
+		float:none;
+		width:100%
+	}
+	
+	.login .loginForm input
+	{
+		padding-left:15px
+	}
+	
+	.login .loginForm .inputStyle a
+	{
+		position: static;
+		display:block;
+		text-align:left;
+		margin-bottom:20px
+	}
+	
+	.profile .tabsTable li
+	{
+		float:none;
+		width:100%
+	}
+}
+
+/* Tablets */
+@media (min-width:480px) and (max-width: 767px)
+{
+	
+
+}
+
+/* Mobile */
+@media (max-width: 479px) 
+{
+	
+	.header
+	{
+		padding-bottom:20px
+	}
+	
+	.header .logo
+	{
+		float:none;
+		display:block;
+		width:100%;
+		max-width:none;
+		text-align:center
+	}
+	
+	.bx-wrapper .bx-pager.bx-default-pager
+	{
+		display:none
+	}
+	
+	.header .topBar .search,
+	.header .topBar .socialTop,
+	.header .topBar .count,
+	.header .topBar .Donate-now
+	{
+		float:none;
+		display:block;
+		margin:0;
+		margin-bottom:15px
+	}
+	
+	.header .topBar .count
+	{
+		margin-bottom:25px
+	}
+	
+	.header .shoppingCart
+	{
+		float:right;
+		margin-top:20px;
+		margin-right:20px
+	}
+	
+	.header .open-menu
+	{
+		margin-top:20px
+	}
+	
+	
+	.footer .SubscribeNews .formSub input,
+	.footer .SubscribeNews .formSub button
+	{
+		width:100%;
+		margin-bottom:10px
+	}
+	
+	.footer .contactFooter .titleContact
+	{
+		margin-bottom:30px
+	}
+	
+	.footer .contactFooter img
+	{
+		float:left
+	}
+	
+	.post .postDetails
+	{
+		padding:15px
+	}
+	
+	.accBanks span
+	{
+		font-size:15px
+	}
+	
+	.contactInfo .Problem
+	{
+		padding-top:85px;
+		padding-right:0
+	}
+	
+	.contactInfo .Problem img
+	{
+		right:calc(50% - 62.5px)
+	}
+	
+	.contactInfo .Problem p
+	{
+		font-size:15px
+	}
+	
+	.opencardDetails .bgWhite
+	{
+		padding:10px
+	}
+	
+	.opencardDetails .topHead
+	{
+		padding:10px;
+		text-align:center
+	}
+	
+	.opencardDetails .topHead img,
+	.opencardDetails .topHead .detailsHead
+	{
+		margin-right:auto;
+		padding-right:0;
+		margin-left:auto;
+		float:none
+	}
+	
+	.opencardDetails .detailsStatus li
+	{
+		height:auto;
+		line-height:25px;
+		padding:10px
+	}
+	
+	.opencardDetails .detailsStatus li span
+	{
+		display:block;
+		float:none;
+		width:100%
+	}
+	
+	.opencardDetails .leftSection p.price
+	{
+		font-size:15px
+	}
+	
+	.opencardDetails .leftSection a
+	{
+		width:100%;
+		float:none;.shoppingPage .item
+		margin-bottom:15px;
+		display:block
+	}
+	
+	.opencardDetails .leftSection a:first-of-type
+	{
+		padding-left:0
+	}
+	
+	.shoppingPage .item
+	{
+		text-align:center;
+		padding-right:0
+	}
+	
+	.shoppingPage .item .detailsItem img
+	{
+		margin:0 auto 15px
+	}
+	
+	.shoppingPage .item .detailsItem,
+	.shoppingPage .item .detailsItem img,
+	.shoppingPage .item .detailsItem .details
+	{
+		float:none;
+		padding-right:0
+	}
+	
+	.shoppingPage .item .minPlus
+	{
+		margin-top:20px;
+		display:inline-block;
+		float:none
+	}
+	
+	.table-responsive
+	{
+		border:none
+	}
+	
+	.table-responsive thead
+	{
+		display:none
+	}
+	
+	.table-responsive tbody tr
+	{
+		width:100%;
+		border:1px solid #999;
+		margin-bottom:20px;
+		display:block;
+		
+		text-align:center
+	}
+	
+	.table-responsive tbody tr td
+	{
+		width:100%;
+		padding:15px 0;
+		display:block;
+	}
+}
